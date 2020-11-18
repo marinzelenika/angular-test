@@ -23,7 +23,7 @@ export class TodosComponent implements OnInit {
         title: 'Todo Two',
         completed: false
       }
-    ]
+    ];
   }
 
 }
